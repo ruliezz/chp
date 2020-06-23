@@ -1,2 +1,2 @@
-FROM docker.io/php:7.0-apache  
+FROM php:7.0-apache  
 COPY . /var/www/html
